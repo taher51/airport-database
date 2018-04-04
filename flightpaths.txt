@@ -1,0 +1,6 @@
+5
+Heathrow2Dubai	1	0
+Liverpool2Kenya	3	4
+Dubai2Liverpool	0	3
+Liverpool2Heathrow	3	1
+Heathrow2India	1	5
